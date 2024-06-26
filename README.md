@@ -1,0 +1,2 @@
+# -Lithuanian_Law_RAG_QA_ChatBot_Streamlit
+ Lithuanian_Law_RAG_QA_ChatBot_Streamlit
